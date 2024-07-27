@@ -9,7 +9,7 @@ fn main() {
     let img_buffer = ImageReader::open(&args.0)
         .unwrap().decode().unwrap();
 
-    let width = img_buffer.width();
+    let width  = img_buffer.width();
     let height = img_buffer.height();
 
     // take out only the luminance
