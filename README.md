@@ -1,4 +1,4 @@
-# Signal Probability Analysis
+# Floyd-Steinberg Dithering
 
 <img src="assets/mm.jpg" alt="Marilyn Monroe Image Comparation: original image" width="364" height="459">
 <img src="assets/mm_dithered.jpg" alt="Marilyn Monroe Image Comparation: dithered image" width="364" height="459">
