@@ -1,7 +1,7 @@
 # Signal Probability Analysis
 
 ![Marilyn Monroe Image Comparation: original image](assets/mm.jpg)
-![Marilyn Monroe Image Comparation: dithered image](assets/mm_dithered.png.jpg)
+![Marilyn Monroe Image Comparation: dithered image](assets/mm_dithered.jpg)
 
 > A practicle implementation of the Floyd–Steinberg dithering algorithm.
 
